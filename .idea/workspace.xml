@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b826b608-a931-433e-90c5-9ec5110e0333" name="Changes" comment="Added Duplicates Remove without auxiliary space">
-      <change afterPath="$PROJECT_DIR$/Java Concepts/src/SelectionSort.java" afterDir="false" />
+    <list default="true" id="b826b608-a931-433e-90c5-9ec5110e0333" name="Changes" comment="Code for selection sort">
+      <change afterPath="$PROJECT_DIR$/Java Concepts/src/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Concepts/src/bubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Concepts/src/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java Concepts/src/SelectionSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1718544619142</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Code for selection sort">
+      <created>1718546374374</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1718546374374</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -109,7 +119,8 @@
     <MESSAGE value="Added abstract example and Student details (encapsulation)" />
     <MESSAGE value="Changed main to InfixToPostfix" />
     <MESSAGE value="Added Duplicates Remove without auxiliary space" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Duplicates Remove without auxiliary space" />
+    <MESSAGE value="Code for selection sort" />
+    <option name="LAST_COMMIT_MESSAGE" value="Code for selection sort" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
