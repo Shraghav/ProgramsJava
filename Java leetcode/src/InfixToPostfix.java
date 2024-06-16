@@ -6,7 +6,7 @@
 import java.util.HashMap;
 import java.util.Stack;
 
-public class Main {
+public class InfixToPostfix {
     static int valueOf(char i) {
         HashMap<Character, Integer> hm = new HashMap();
         hm.put('+', 1);
