@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b826b608-a931-433e-90c5-9ec5110e0333" name="Changes" comment="Changed main to InfixToPostfix">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java leetcode/src/DuplicatesRemove.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="b826b608-a931-433e-90c5-9ec5110e0333" name="Changes" comment="Added Duplicates Remove without auxiliary space">
+      <change afterPath="$PROJECT_DIR$/Java Concepts/src/SelectionSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +74,14 @@
       <option name="project" value="LOCAL" />
       <updated>1718530571963</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added Duplicates Remove without auxiliary space">
+      <created>1718544619142</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1718544619142</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -103,7 +108,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added abstract example and Student details (encapsulation)" />
     <MESSAGE value="Changed main to InfixToPostfix" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changed main to InfixToPostfix" />
+    <MESSAGE value="Added Duplicates Remove without auxiliary space" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Duplicates Remove without auxiliary space" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
